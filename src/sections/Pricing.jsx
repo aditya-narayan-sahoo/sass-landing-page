@@ -115,7 +115,7 @@ const Pricing = () => {
                       />
                     </div>
                     <div className="small-1 relative top-3 ml-1 uppercase">
-                      / mo
+                      {monthly ? "/mo" : "/yo"}
                     </div>
                   </div>
                 </div>
