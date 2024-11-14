@@ -1,12 +1,9 @@
 {
-  "homepage": "https://github.io/aditya-narayan-sahoo/sass-landing-page",
   "name": "sass-landing-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "pnpm build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
