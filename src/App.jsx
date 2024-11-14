@@ -1,7 +1,9 @@
+import Header from "./sections/Header";
+
 const App = () => {
   return (
-    <main className="overflow-hidden text-center text-3xl underline">
-      Landing Page
+    <main className="overflow-hidden">
+      <Header />
     </main>
   );
 };
