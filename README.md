@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [pnpm](https://pnpm.io/)
+- [npm](https://www.npmjs.com/)
 
 **Cloning the Repository**
 
@@ -65,16 +65,16 @@ cd sass-landing-page
 
 **Installation**
 
-Install the project dependencies using pnpm:
+Install the project dependencies using npm:
 
 ```
-pnpm install
+npm install
 ```
 
 **Running the Project**
 
 ```
-pnpm dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
